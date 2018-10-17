@@ -1,0 +1,7 @@
+c:\users\m1016931\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\AlgorithmsAndDataStructures.exe.config
+c:\users\m1016931\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\AlgorithmsAndDataStructures.exe
+c:\users\m1016931\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\AlgorithmsAndDataStructures.pdb
+c:\users\m1016931\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\AlgorithmsAndDataStructures.csprojResolveAssemblyReference.cache
+c:\users\m1016931\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\AlgorithmsAndDataStructures.exe
+c:\users\m1016931\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\AlgorithmsAndDataStructures.pdb
